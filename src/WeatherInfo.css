@@ -1,0 +1,74 @@
+.container{
+    position: fixed;
+    top: 0;
+    right: 0;
+    background-color: rgb(17, 16, 16);
+    height: 100%;
+    width: 80vh;
+    padding: 20px;
+    box-sizing: border-box;
+    border-right: 8px solid white;
+    color: white;
+    border: 2px solid white;
+}
+
+h2{
+    text-align: center;
+    font-size: 30px;
+}
+
+.cloud{
+    height: 100px;
+    width: 120px;
+    margin-top: 70px;
+    margin-bottom: 10px;
+    margin-left: 170px;
+    filter: invert(100%);
+}
+
+.search{
+    padding: 20px;
+    position: relative;
+    display: inline-block;
+    font-size: larger;
+}
+
+.search-input {
+    padding: 8px 30px 8px 10px; 
+    border: none;
+    border-bottom: 1px solid white;
+    outline: none;
+    font-size: 16px;
+    width: 300px; 
+    margin-left: 30px;
+    background-color: rgb(17, 16, 16);
+    color: white;
+  }
+
+.search-logo{
+    height: 21px;
+    width: 20px;
+}
+
+.search-button {
+    position: absolute;
+    top: 50.2%;
+    right: 115px;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+    filter: invert(100%);
+  }
+
+  .main{
+    padding-top: 20px;
+    padding-left: 20px;
+    color: white;
+    padding: 15px;
+  }
+
+  .p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  

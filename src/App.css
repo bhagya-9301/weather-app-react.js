@@ -1,0 +1,15 @@
+body{
+    background-image: url('../src/weather.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.heading{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin-top: 40px;
+    margin-right: 150px;
+    font-size: 50px;
+}
+

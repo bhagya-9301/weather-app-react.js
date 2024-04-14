@@ -1,0 +1,22 @@
+.datetime-container { 
+    padding: 10px; 
+    border-radius: 5px; 
+    margin-top: 380px;
+    margin-left: 45px;
+  }
+  
+  .time, .date {
+    font-size: 18px;
+    margin: 5px 0; 
+  }
+  
+  .time {
+    color: white; 
+    font-size: 60px;
+  }
+  
+  .date {
+    color:white; 
+    font-size: 25px;
+  }
+  
